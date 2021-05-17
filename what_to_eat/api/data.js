@@ -1,4 +1,4 @@
-const FOOD = {
+export const Food = {
   Afghan: "afghani",
   African: "african",
   Senegalese: "senegalese",
@@ -155,4 +155,4 @@ const FOOD = {
   Wraps: "wraps",
 };
 
-const PRICES = ["$", "$$", "$$$", "$$$$", "$$$$$"];
+export const Prices = ["$", "$$", "$$$", "$$$$", "$$$$$"];
